@@ -1,0 +1,6 @@
+target/classes
+target/stale
+
+.lein-repl-history
+.nrepl-port
+.lein-failures
